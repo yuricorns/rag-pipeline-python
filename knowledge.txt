@@ -1,0 +1,16 @@
+Mayuri Mallya is a final year Computer Engineering student.
+She is learning Python, FastAPI, and AI development.
+She built a chatbot using Groq LLM and Streamlit.
+RAG stands for Retrieval Augmented Generation.
+ChromaDB is a vector database used to store embeddings.
+FastAPI is used to build backend APIs in Python.
+Groq is a fast LLM inference platform.
+SQL is used to store and query structured data.
+n8n is a workflow automation tool used to build AI agents.
+Embeddings are numbers that represent the meaning of text.
+LLM is large language model which is trained on very large amount of text data.
+It can understand human language and generate human like responses ,answering responses .
+Perform tasks,deadlines,priority.
+Vector database is not like traditional database .In this database
+instead of keywords ,chunks are stored in form of numbers(vectors).
+
